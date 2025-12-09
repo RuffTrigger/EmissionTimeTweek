@@ -45,7 +45,7 @@ Uses UE4SS and GameplayStatics to correctly play the 2-minute siren cue:
 
 UE4SS installed
 
-MISERY (UE4 version)
+MISERY
 
 Mods enabled via mods.txt
 
